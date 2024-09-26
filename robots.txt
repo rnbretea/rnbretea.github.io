@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rnbretea.github.io/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/app/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/assets/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/css/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/data/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/includes/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/item/sitemap.rnbretea.gz
+Sitemap: https://rnbretea.github.io/src/sitemap.rnbretea.gz
